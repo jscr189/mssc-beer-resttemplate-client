@@ -1,0 +1,1 @@
+# mssc-beer-resttemplate-client
